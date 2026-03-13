@@ -1,2 +1,2 @@
-//Hello World!
-console.log("Olá Mundo!");
+npm init -y
+npm install discord.js
